@@ -1,9 +1,9 @@
 {
-  "appSettings": "settings",
+  "appSettings": "the settings",
   "examples": {
     "cards": {
       "infoCards": {
-        "social": "social: ",
+        "social": "Social: ",
         "edit": "edit"
       },
       "masterCard": {
