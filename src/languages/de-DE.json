@@ -1,6 +1,6 @@
 {
   "appSettings": "die Einstellungen",
-  "test": "",
+  "test": "TESTEN",
   "examples": {
     "cards": {
       "infoCards": { "social": "Sozial:", "edit": "bearbeiten" },
