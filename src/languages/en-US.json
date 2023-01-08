@@ -2,6 +2,7 @@
   "appSettings": "the settings",
   "test": "TEST",
   "examples": {
+    "test2": "TEST2",
     "cards": {
       "infoCards": {
         "social": "Social: ",
@@ -10,7 +11,8 @@
       "masterCard": {
         "wifi": "wifi",
         "cardHolder": "Card Holder",
-        "expires": "Expires"
+        "expires": "Expires",
+        "test3": "TEST3"
       }
     },
     "charts": {
