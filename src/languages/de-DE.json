@@ -2,9 +2,10 @@
   "appSettings": "die Einstellungen",
   "test": "",
   "examples": {
+    "test2": "",
     "cards": {
       "infoCards": { "social": "Sozial:", "edit": "bearbeiten" },
-      "masterCard": { "wifi": "W-lan", "cardHolder": "Kartenhalter", "expires": "Läuft ab" }
+      "masterCard": { "wifi": "W-lan", "cardHolder": "Kartenhalter", "expires": "Läuft ab", "test3": "" }
     },
     "charts": { "schedule": "zeitlicher Ablauf" },
     "configurator": {
