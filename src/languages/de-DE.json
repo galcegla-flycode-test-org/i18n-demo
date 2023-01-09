@@ -5,7 +5,7 @@
     "test2": "",
     "cards": {
       "infoCards": { "social": "Sozial:", "edit": "bearbeiten" },
-      "masterCard": { "wifi": "W-lan", "cardHolder": "Kartenhalter", "expires": "Läuft ab", "test3": "" }
+      "masterCard": { "wifi": "W-lan", "cardHolder": "Kartenhalter", "expires": "Läuft ab", "test3": "drei" }
     },
     "charts": { "schedule": "zeitlicher Ablauf" },
     "configurator": {
