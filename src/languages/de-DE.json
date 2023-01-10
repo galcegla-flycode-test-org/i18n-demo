@@ -1,15 +1,15 @@
 {
   "appSettings": "Einstellungen",
-  "test": "PRÜFUNG",
+  "appSettingsDarkMode": "",
   "examples": {
-    "test2": "TEST2",
+    "cardExample": "",
     "cards": {
       "infoCards": { "social": "Sozial:", "edit": "bearbeiten" },
       "masterCard": {
         "wifi": "W-lan",
         "cardHolder": "Kartenhalter",
         "expires": "Läuft ab",
-        "test3": "TEST3"
+        "pin": ""
       }
     },
     "charts": { "schedule": "Zeitplan" },

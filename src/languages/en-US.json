@@ -1,8 +1,8 @@
 {
   "appSettings": "the settings",
-  "test": "TEST",
+  "appSettingsDarkMode": "Dark Mode",
   "examples": {
-    "test2": "TEST2",
+    "cardExample": "Card Example:",
     "cards": {
       "infoCards": {
         "social": "Social: ",
@@ -12,7 +12,7 @@
         "wifi": "wifi",
         "cardHolder": "Card Holder",
         "expires": "Expires",
-        "test3": "TEST3"
+        "pin": "Your PIN"
       }
     },
     "charts": {
