@@ -1,13 +1,18 @@
 {
-  "appSettings": "die Einstellungen",
-  "test": "",
+  "appSettings": "Einstellungen",
+  "test": "PRÜFUNG",
   "examples": {
-    "test2": "",
+    "test2": "TEST2",
     "cards": {
       "infoCards": { "social": "Sozial:", "edit": "bearbeiten" },
-      "masterCard": { "wifi": "W-lan", "cardHolder": "Kartenhalter", "expires": "Läuft ab", "test3": "" }
+      "masterCard": {
+        "wifi": "W-lan",
+        "cardHolder": "Kartenhalter",
+        "expires": "Läuft ab",
+        "test3": "TEST3"
+      }
     },
-    "charts": { "schedule": "zeitlicher Ablauf" },
+    "charts": { "schedule": "Zeitplan" },
     "configurator": {
       "muiConfigurator": "Material-UI-Konfigurator",
       "seeDashboardOptions": "Sehen Sie sich unsere Dashboard-Optionen an.",
@@ -29,8 +34,14 @@
     "footer": {
       "madeWith": ", gemacht mit",
       "favorite": "Favorit",
-      "by": "durch",
-      "forABetterWeb": "für ein besseres Netz."
+      "by": "von",
+      "forABetterWeb": "für ein besseres Netz.",
+      "links": {
+        "creativeTim": "Kreativ Tim",
+        "aboutUs": "Über uns",
+        "blog": "Bloggen",
+        "license": "Lizenz"
+      }
     },
     "dashboardNavbar": {
       "email": "Email",
@@ -66,16 +77,10 @@
         "lisence": "Lizenz",
         "madeWith": ", gemacht mit",
         "favorite": "Favorit",
-        "by": "durch",
+        "by": "von",
         "creativeTimSpace": "Kreativ Tim",
         "forABetterWeb": "für ein besseres Netz.",
-        "creativeTim": "Kreativ Tim",
-        "links": {
-          "creativeTim": "Kreativ Tim",
-          "aboutUs": "Über uns",
-          "blog": "Blog",
-          "license": "Lizenz"
-        }
+        "creativeTim": "Kreativ Tim"
       },
       "resetPassword": {
         "resetPassword": "Passwort zurücksetzen",
@@ -88,7 +93,7 @@
         "dontHaveAccount": "Sie haben kein Konto?",
         "signUp": "Anmelden",
         "signIn": "Einloggen",
-        "signInCap": "Einloggen",
+        "signInCap": "Anmelden",
         "joinUs": "Trete uns heute bei",
         "enterCredentials": "Geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein, um sich zu registrieren",
         "iAgree": "Ich stimme dem zu",
@@ -163,11 +168,11 @@
           "2k": "2.000 $",
           "14k": "14.000 $"
         },
-        "action": "Aktion",
+        "action": "Handlung",
         "anotherAction": "Eine weitere Aktion",
         "somethingElse": "Etwas anderes",
         "projects": "Projekte",
-        "done": "erledigt",
+        "done": "fertig",
         "30Done": "30 fertig",
         "thisMonth": "diesen Monat",
         "moreVert": "mehr_vert"
@@ -304,7 +309,7 @@
       "src/layouts/rtl/components/Projects/data/index.js:180:13:180:20": "20.500 $",
       "src/layouts/rtl/components/Projects/data/index.js:198:13:198:17": "$500",
       "src/layouts/rtl/components/Projects/data/index.js:219:13:219:19": "2.000 $",
-      "src/layouts/rtl/components/Projects/index.js:75:15:75:19": "erledigt",
+      "src/layouts/rtl/components/Projects/index.js:75:15:75:19": "fertig",
       "src/layouts/rtl/components/Projects/index.js:78:29:78:37": "30 Jahre",
       "src/layouts/rtl/components/Projects/index.js:84:13:84:22": "mehr_vert",
       "src/layouts/rtl/index.js:139:32:139:36": "+15 %"
@@ -328,7 +333,7 @@
           "working": "Arbeiten",
           "1k": "1.000 $",
           "2c300k": "$2.300",
-          "done": "erledigt",
+          "done": "fertig",
           "2c500k": "2.500 $",
           "5k": "5.000 $"
         }
@@ -352,7 +357,7 @@
       "billing": "Abrechnung",
       "notifications": "Benachrichtigungen",
       "profile": "Profil",
-      "sign-in": "Einloggen",
+      "sign-in": "Anmelden",
       "sign-up": "Anmeldung"
     }
   }
