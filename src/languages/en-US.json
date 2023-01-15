@@ -213,7 +213,7 @@
       },
       "statisticsCards": {
         "bookings": {
-          "title": "Bookings",
+          "title": "Bookings made",
           "percentage": {
             "amount": "+55%",
             "label": "than last week"
