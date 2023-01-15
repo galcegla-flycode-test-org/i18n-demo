@@ -179,7 +179,7 @@
       },
       "statisticsCards": {
         "bookings": {
-          "title": "Buchungen",
+          "title": "Buchungen Heute",
           "percentage": { "amount": "+55 %", "label": "als letzte Woche" }
         },
         "users": {
