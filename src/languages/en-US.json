@@ -1,5 +1,5 @@
 {
-  "appSettings": "Settings",
+  "appSettings": "settings",
   "appSettingsDarkMode": "Dark Mode",
   "examples": {
     "cardExample": "Card Example:",

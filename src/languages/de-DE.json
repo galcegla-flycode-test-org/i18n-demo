@@ -1,6 +1,6 @@
 {
   "appSettings": "Einstellungen",
-  "appSettingsDarkMode": "",
+  "appSettingsDarkMode": "DunkelMode",
   "examples": {
     "cardExample": "",
     "cards": {
